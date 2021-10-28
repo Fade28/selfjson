@@ -2,7 +2,13 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
+      "tanggal": "28-02-1196",
+      "ket": "ya"
+    },
+    {
+      "id": 2,
+      "tanggal": "20-10-2190",
+      "ket": "ya"
     }
   ],
   "profile": {
